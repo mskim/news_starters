@@ -25,7 +25,7 @@ docker pull minsookim/newsgo:v0.1.0
 ```
   cd full_size
 
-  docker run -it -v $(pwd):/usr/src/app minsookim/newsgo:v0.1.1 bash
+  docker run -it -v $(pwd):/usr/src/app minsookim/newsgo:v0.0.1 bash
 
   rake
 

@@ -1,0 +1,17 @@
+---
+:section_name: 1면
+:page_number: 1
+:pillar_width:
+- 4
+- 2
+:page_heading_margin_in_lines: 10
+:pillar_map:
+- - "/usr/src/app/working/2023-01-01/page_01/1_1"
+  - "/usr/src/app/working/2023-01-01/page_01/1_2"
+- - "/usr/src/app/working/2023-01-01/page_01/2_1"
+  - "/usr/src/app/working/2023-01-01/page_01/2_2"
+  - "/usr/src/app/working/2023-01-01/page_01/2_3"
+  - "/usr/src/app/working/2023-01-01/page_01/2_4"
+:ad_type: 5단통
+:advertiser: kdb.png
+:draw_divider: 

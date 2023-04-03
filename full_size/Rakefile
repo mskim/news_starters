@@ -3,12 +3,12 @@ require "rlayout"
 task default: [:run_job_processor]
 
 desc "run job processor loop"
-task run_job_processor: do
+task :run_job_processor do
   project_path = File.dirname(__FILE__)
   RLayout::NewsProcessor.new(project_path)
 end
 
 desc "run the docker process"
 task :run_docker do
-  system("docker run -it -v $(pwd):/usr/src/app minsookim/newsgo:v0.1.0 bash")
+  system("docker run -it -v $(pwd):/usr/src/app minsookim/newsgo:v0.0.1 bash")
 end
