@@ -1,0 +1,24 @@
+
+---
+issue_number: 1002
+pages:
+- page_number: 1
+  section_name: 1면
+  pillars: [[4,2], [2,4]]
+  ad_type: 5단통
+  advertiser: kdb.png
+- page_number: 2
+  section_name: 소식
+  pillars: [[2,3], [2,3], [2,3]]
+  ad_type: 5단통
+  advertiser: kdb.png
+- page_number: 3
+  section_name: 소식
+  pillars: [[2,3], [2,3], [2,3]]
+  ad_type: 5단통
+  advertiser: kdb.png
+- page_number: 4
+  section_name: 전면광고
+  ad_type: 15단통
+  advertiser: shinhan.png
+
